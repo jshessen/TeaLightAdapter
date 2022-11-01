@@ -11,6 +11,6 @@ git clone --recurse-submodules https://github.com/jshessen/TeaLightAdapter.git
 ```
 
 The overall project is also availale on
-- Thingiverse - https://www.thingiverse.com/thing:????
-- Printables - https://www.printables.com/model/????
+- Thingiverse - https://www.thingiverse.com/thing:5600710
+- Printables - https://www.printables.com/model/307825-tea-light-adapter
 
